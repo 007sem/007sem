@@ -2,8 +2,7 @@
 
 
 - 🐱‍💻 Frontend Engineer.
-- 👯‍♀️ Spotify annual subscribers.
-- 📧 My email -> 380204098@qq.com
+- 📧 Contact Me -> 380204098@qq.com
 
 
 
